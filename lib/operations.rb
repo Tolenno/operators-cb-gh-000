@@ -9,3 +9,5 @@ def methods
 		end
 	end
 end
+
+methods
